@@ -1,8 +1,7 @@
-# React Frontend Project: [ImageVista](https://imagevista.netlify.app/)
+# React Frontend Project: [ImageVista](https://image-finders.netlify.app/)
 
 This project is a React-based frontend application that leverages the Pixabay API to fetch images and display them on three different screens: the home page, search result page, and a modal image detail page. The application is designed to be responsive, ensuring a seamless experience across various devices.
 
-## Live Demo [Video Preview](https://youtu.be/Tt2QYcynJTw)
 
 ## Screens:
 
