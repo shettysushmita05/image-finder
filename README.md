@@ -70,11 +70,9 @@ This project is a React-based frontend application that leverages the Pixabay AP
 
 ## Installation:
 
-1. Clone the repository:
+1. Clone or download the repository:
 
-   ```bash
-   git clone https://github.com/Abhijitkr/roc8-assignment-1
-   ```
+   Download the zip folder or clone
 
 2. Navigate to roc8-assignment-1
 
@@ -98,4 +96,4 @@ This project is a React-based frontend application that leverages the Pixabay AP
 
 5. Create .env file in the root (Provided .env.example)
 
-## Check out live project [website](https://imagevista.netlify.app/)
+## Check out live project [website](https://image-finders.netlify.app/)
